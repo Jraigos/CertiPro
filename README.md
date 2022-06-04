@@ -32,6 +32,10 @@
  </br>
  </br>
  
+ ![QR Code](University/QR_codes/sw_qrcode.png)
+ </br>
+ </br>
+ 
  
  - Lastly, the NFT Certificate token is sent to the student’s wallet address.
 
