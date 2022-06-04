@@ -28,6 +28,13 @@
 - the student will import the token using the contract address and keep it on his Metamask wallet address.
  
 - The student as a professional will create a profile on CertiPro with their personal information including a profile photo, add an Ethereum wallet, their resume and certifications to be displayed, as well as the address where the certificates are stored and view the certificates on the app.
+ 
+ 
+### CERTIPRO: 
+ 
+- First, the professional needs to sign up and creates a profile. 
+- Once the profile is created, the professional can upload photos, resume and NFTs certificates.
+- After the profile is completed, the app will display all the proffesional information.
 
  
 ### We are using Remix to create and deploy contracts, create NFT's and tokens, pinata to be able to hold images in IPF's and streamlite for the front-end applications
